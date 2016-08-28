@@ -1,0 +1,2 @@
+echo "HHHHH"
+echo "`pwd`"
